@@ -42,7 +42,7 @@ new p5(function(p){
 		
 
 				p.background(0, 100, 150);
-				//scale = extfunc.scaleCol(p, boxSize, s1.getValue(0.5, 1.5));
+				//giscale = extfunc.scaleCol(p, boxSize, s1.getValue(0.5, 1.5));
 				if(scale){
 					boxSize = scale.w;
 					console.log(scale, BP.colWidth);
